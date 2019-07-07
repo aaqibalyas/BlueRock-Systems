@@ -9,7 +9,7 @@ namespace Test
         /// <summary>
         /// Which word appears the most in the string
         /// <\summary>
-        /// <para name= "text"> The string of string you are testing against </paraname>
+        /// <param name="text"> The string of string you are testing against </paraname>
         /// <returns> How often the most frequent word appeared</returns>
         int CalculateHighestFrequency(string text);
 
